@@ -1,0 +1,22 @@
+/* here you can put your own css to customize and override the theme */
+.border-bottom {
+    padding: 10px 0;
+    border-bottom: 1px solid #F1F4F7!important;
+}
+
+.ticket-action{
+	padding-bottom: 20px !important;
+	padding-top: 20px !important;
+}
+
+.modal-open .modal {
+	z-index: 9996 !important;
+}
+
+.pac-container {
+    z-index: 99972 !important;
+}
+
+.font-red {
+	color: #E26A6A !important;
+}

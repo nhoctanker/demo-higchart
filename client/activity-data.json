@@ -1,0 +1,7 @@
+[
+ {"zoneId":"Calle 85", "data":{"count":52,"speed":10,"time":31017600000},"dataDay":[{"speed":1,"time":25315200000},{"speed":3,"time":25315200000},{"speed":3,"time":26956800000}]},
+ {"zoneId":"Salitre plaza", "data":{"count":2,"speed":8.5,"time":31014600000},"dataDay":[{"speed":2,"time":26956800000},{"speed":4,"time":32400000000}]},
+ {"zoneId":"Parque 93", "data":{"count":4,"speed":15,"time":31015600000},"dataDay":[{"speed":3,"time":28512000000},{"speed":5,"time":31017600000}]},
+ {"zoneId":"Calle 80", "data":{"count":3,"speed":13.5,"time":31012600000},"dataDay":[{"speed":4,"time":28512000000},{"speed":6,"time":33696000000}]},
+ {"zoneId":"Centro", "data":{"count":1,"speed": 9 ,"time":31013600000},"dataDay":[{"speed":5,"time":28512000000},{"speed":7,"time":34387200000}]}
+]
